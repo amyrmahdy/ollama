@@ -1,5 +1,5 @@
 version: '3.1'
-
+# TODO: It must use GPU not CPU! Fix it!
 services:
   ollama:
     image: docker.arvancloud.ir/ollama/ollama:latest
